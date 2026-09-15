@@ -1,1 +1,1 @@
-console.log("my name is dinchen pradhan);
+console.log("my name is dinchen pradhan");
